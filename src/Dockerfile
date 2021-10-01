@@ -1,5 +1,5 @@
 FROM nginx:1.21.0
-LABEL maintainer="Jonas Alfredsson <jonas.alfredsson@protonmail.com>"
+LABEL maintainer="Advantage Technologies"
 
 ARG BUILDX_QEMU_ENV
 
