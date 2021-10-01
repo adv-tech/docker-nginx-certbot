@@ -1,4 +1,4 @@
-FROM nginx:1.21.0
+FROM nginx:1.21.3
 LABEL maintainer="Advantage Technologies"
 
 ARG BUILDX_QEMU_ENV
